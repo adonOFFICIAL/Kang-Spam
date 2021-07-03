@@ -11,7 +11,7 @@ nyepam Mantan Lu awokawokwkwk:v
 $ cd Kang-Spam
 $ bash install.sh
 ```
-> Get Token [click here](https://cutt.ly/TokenKangSp4m)
+> Get Token [click here](https://bit.ly/TokenKangSp4m)
 ## Support Me On
 <b>• [Facebook](https://m.facebook.com/dhasilva.junior.3)</b>
 <br>
