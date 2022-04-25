@@ -15,5 +15,5 @@ $ bash install.sh
 ## Support Me On
 <b>• [Facebook](https://m.facebook.com/dhasilva.junior.3)</b>
 <br>
-<b>• [Youtube](https://www.youtube.com/channel/UCLRXFyMN0L8yH9F-xxOd7Og)</b>
+<b>• [Youtube](https://youtube.com/channel/UCfNdfgwxDm05O9HzdHg7AXw)</b>
 </br>
